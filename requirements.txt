@@ -1,3 +1,4 @@
-jax 
+jax
+jaxlib 
 jupyter 
 matplotlib
